@@ -1,0 +1,14 @@
+C:\Users\BFI\source\repos\topic4\topic4\bin\Debug\net8.0\topic4.exe
+C:\Users\BFI\source\repos\topic4\topic4\bin\Debug\net8.0\topic4.deps.json
+C:\Users\BFI\source\repos\topic4\topic4\bin\Debug\net8.0\topic4.runtimeconfig.json
+C:\Users\BFI\source\repos\topic4\topic4\bin\Debug\net8.0\topic4.dll
+C:\Users\BFI\source\repos\topic4\topic4\bin\Debug\net8.0\topic4.pdb
+C:\Users\BFI\source\repos\topic4\topic4\obj\Debug\net8.0\topic4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BFI\source\repos\topic4\topic4\obj\Debug\net8.0\topic4.AssemblyInfoInputs.cache
+C:\Users\BFI\source\repos\topic4\topic4\obj\Debug\net8.0\topic4.AssemblyInfo.cs
+C:\Users\BFI\source\repos\topic4\topic4\obj\Debug\net8.0\topic4.csproj.CoreCompileInputs.cache
+C:\Users\BFI\source\repos\topic4\topic4\obj\Debug\net8.0\topic4.dll
+C:\Users\BFI\source\repos\topic4\topic4\obj\Debug\net8.0\refint\topic4.dll
+C:\Users\BFI\source\repos\topic4\topic4\obj\Debug\net8.0\topic4.pdb
+C:\Users\BFI\source\repos\topic4\topic4\obj\Debug\net8.0\topic4.genruntimeconfig.cache
+C:\Users\BFI\source\repos\topic4\topic4\obj\Debug\net8.0\ref\topic4.dll
